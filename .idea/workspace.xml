@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a5619e5-de78-43b6-b02d-a2dfedb7bbea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Average of Numbers in a Given List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examples on Dictionary/Generate a Dictionary that Contains Numbers (between 1 and n) in the Form (x,x*x).py" beforeDir="false" afterPath="$PROJECT_DIR$/Examples on Dictionary/Generate a Dictionary that Contains Numbers (between 1 and n) in the Form (x,x*x).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exchange the Values of Two Numbers Without Using a Temporary Variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exchange the Values of Two Numbers Without Using a Temporary Variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeEasy/344. Reverse String.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeEasy/344. Reverse String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeEasy/38. Count and Say Sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeEasy/38. Count and Say Sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program to reverse a given number..py" beforeDir="false" afterPath="$PROJECT_DIR$/Program to reverse a given number..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Read a Number n and Compute n+nn+nnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Read a Number n and Compute n+nn+nnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sort using a Binary Search Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sort using a Binary Search Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WithoutRecursion/Binary Equivalent of a Number without Using Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/WithoutRecursion/Binary Equivalent of a Number without Using Recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WithoutRecursion/Find All Numbers which are Odd and Palindromes.py" beforeDir="false" afterPath="$PROJECT_DIR$/WithoutRecursion/Find All Numbers which are Odd and Palindromes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WithoutRecursion/Find the Fibonacci Series without Using Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/WithoutRecursion/Find the Fibonacci Series without Using Recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WithoutRecursion/Flatten a List without using Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/WithoutRecursion/Flatten a List without using Recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WithoutRecursion/factorial of a number without recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/WithoutRecursion/factorial of a number without recursion.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,12 +23,62 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Average of Numbers in a Given List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCodeEasy/344. Reverse String.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WithoutRecursion/Find the Fibonacci Series without Using Recursion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCodeEasy/70. Climbing Stairs.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sort using a Binary Search Tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCodeEasy/38. Count and Say Sequence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WithoutRecursion/Binary Equivalent of a Number without Using Recursion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -42,13 +104,22 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Average of Numbers in a Given List.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/venv/Exchange the Values of Two Numbers Without Using a Temporary Variable.py" />
+        <option value="$PROJECT_DIR$/Exchange the Values of Two Numbers Without Using a Temporary Variable.py" />
+        <option value="$PROJECT_DIR$/Read a Mumber n and Compute n+nn+nnn.py" />
+        <option value="$PROJECT_DIR$/Read a Number n and Compute n+nn+nnn.py" />
+        <option value="$PROJECT_DIR$/Program to reverse a given number..py" />
+        <option value="$PROJECT_DIR$/WithoutRecursion/Find the Fibonacci Series without Using Recursion.py" />
+        <option value="$PROJECT_DIR$/WithoutRecursion/factorial of a number without recursion.py" />
+        <option value="$PROJECT_DIR$/WithoutRecursion/Flatten a List without using Recursion.py" />
+        <option value="$PROJECT_DIR$/WithoutRecursion/Binary Equivalent of a Number without Using Recursion.py" />
+        <option value="$PROJECT_DIR$/WithoutRecursion/Find All Numbers which are Odd and Palindromes.py" />
+        <option value="$PROJECT_DIR$/Examples on Dictionary/Generate a Dictionary that Contains Numbers (between 1 and n) in the Form (x,x*x).py" />
+        <option value="$PROJECT_DIR$/LeetCodeEasy/344. Reverse String.py" />
+        <option value="$PROJECT_DIR$/Examples on Dictionary/estt.py" />
+        <option value="$PROJECT_DIR$/LeetCodeEasy/70. Climbing Stairs.py" />
+        <option value="$PROJECT_DIR$/LeetCodeEasy/38. Count and Say Sequence.py" />
+        <option value="$PROJECT_DIR$/Sort using a Binary Search Tree.py" />
       </list>
     </option>
   </component>
@@ -64,7 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -72,10 +142,21 @@
               <item name="SimplePythonPrograms" type="b2602c69:ProjectViewProjectNode" />
               <item name="SimplePythonPrograms" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SimplePythonPrograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimplePythonPrograms" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples on Dictionary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimplePythonPrograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimplePythonPrograms" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCodeEasy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -94,8 +175,92 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Average of Numbers in a Given List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Sort using a Binary Search Tree">
+    <configuration name="344. Reverse String" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SimplePythonPrograms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCodeEasy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCodeEasy/344. Reverse String.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="70. Climbing Stairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SimplePythonPrograms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCodeEasy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCodeEasy/70. Climbing Stairs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Find All Numbers which are Odd and Palindromes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SimplePythonPrograms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WithoutRecursion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WithoutRecursion/Find All Numbers which are Odd and Palindromes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Generate a Dictionary that Contains Numbers (between 1 and n) in the Form (x,x*x)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SimplePythonPrograms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Examples on Dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Examples on Dictionary/Generate a Dictionary that Contains Numbers (between 1 and n) in the Form (x,x*x).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sort using a Binary Search Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SimplePythonPrograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +272,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Average of Numbers in a Given List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort using a Binary Search Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Average of Numbers in a Given List" />
+        <item itemvalue="Python.Sort using a Binary Search Tree" />
+        <item itemvalue="Python.70. Climbing Stairs" />
+        <item itemvalue="Python.344. Reverse String" />
+        <item itemvalue="Python.Generate a Dictionary that Contains Numbers (between 1 and n) in the Form (x,x*x)" />
+        <item itemvalue="Python.Find All Numbers which are Odd and Palindromes" />
       </list>
     </recent_temporary>
   </component>
@@ -137,14 +306,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="776" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3147208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32894737" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
@@ -152,16 +318,109 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32894737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Average of Numbers in a Given List.py">
+    <entry file="file://$PROJECT_DIR$/venv/Exchange the Values of Two Numbers Without Using a Temporary Variable.py" />
+    <entry file="file://$PROJECT_DIR$/Exchange the Values of Two Numbers Without Using a Temporary Variable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Read a Mumber n and Compute n+nn+nnn.py" />
+    <entry file="file://$PROJECT_DIR$/Read a Number n and Compute n+nn+nnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WithoutRecursion/Flatten a List without using Recursion.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WithoutRecursion/factorial of a number without recursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program to reverse a given number..py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WithoutRecursion/Find All Numbers which are Odd and Palindromes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples on Dictionary/Generate a Dictionary that Contains Numbers (between 1 and n) in the Form (x,x*x).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples on Dictionary/estt.py" />
+    <entry file="file://$PROJECT_DIR$/Average of Numbers in a Given List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeEasy/344. Reverse String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeEasy/38. Count and Say Sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WithoutRecursion/Binary Equivalent of a Number without Using Recursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WithoutRecursion/Find the Fibonacci Series without Using Recursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinearSearch">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeEasy/70. Climbing Stairs.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort using a Binary Search Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
         </state>
       </provider>
     </entry>
