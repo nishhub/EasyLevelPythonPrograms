@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a5619e5-de78-43b6-b02d-a2dfedb7bbea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Sorting/InsertionSort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examples on Dictionary/Generate a Dictionary that Contains Numbers (between 1 and n) in the Form (x,x*x).py" beforeDir="false" afterPath="$PROJECT_DIR$/Examples on Dictionary/Generate a Dictionary that Contains Numbers (between 1 and n) in the Form (x,x*x).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exchange the Values of Two Numbers Without Using a Temporary Variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exchange the Values of Two Numbers Without Using a Temporary Variable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeEasy/344. Reverse String.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeEasy/344. Reverse String.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeEasy/38. Count and Say Sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeEasy/38. Count and Say Sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program to reverse a given number..py" beforeDir="false" afterPath="$PROJECT_DIR$/Program to reverse a given number..py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Read a Number n and Compute n+nn+nnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Read a Number n and Compute n+nn+nnn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort using a Binary Search Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sort using a Binary Search Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WithoutRecursion/Binary Equivalent of a Number without Using Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/WithoutRecursion/Binary Equivalent of a Number without Using Recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WithoutRecursion/Find All Numbers which are Odd and Palindromes.py" beforeDir="false" afterPath="$PROJECT_DIR$/WithoutRecursion/Find All Numbers which are Odd and Palindromes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WithoutRecursion/Find the Fibonacci Series without Using Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/WithoutRecursion/Find the Fibonacci Series without Using Recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WithoutRecursion/Flatten a List without using Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/WithoutRecursion/Flatten a List without using Recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WithoutRecursion/factorial of a number without recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/WithoutRecursion/factorial of a number without recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/Bubble Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/Bubble Sort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,10 +47,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Sort using a Binary Search Tree.py">
+        <entry file="file://$PROJECT_DIR$/Sorting/InsertionSort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+            <state relative-caret-position="195">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -120,6 +110,8 @@
         <option value="$PROJECT_DIR$/LeetCodeEasy/70. Climbing Stairs.py" />
         <option value="$PROJECT_DIR$/LeetCodeEasy/38. Count and Say Sequence.py" />
         <option value="$PROJECT_DIR$/Sort using a Binary Search Tree.py" />
+        <option value="$PROJECT_DIR$/Sorting/Bubble Sort.py" />
+        <option value="$PROJECT_DIR$/Sorting/InsertionSort.py" />
       </list>
     </option>
   </component>
@@ -152,6 +144,11 @@
               <item name="SimplePythonPrograms" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCodeEasy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SimplePythonPrograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimplePythonPrograms" type="462c0819:PsiDirectoryNode" />
+              <item name="Sorting" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -175,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Sort using a Binary Search Tree">
+  <component name="RunManager" selected="Python.InsertionSort">
     <configuration name="344. Reverse String" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SimplePythonPrograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Find All Numbers which are Odd and Palindromes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Bubble Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SimplePythonPrograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,11 +223,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WithoutRecursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WithoutRecursion/Find All Numbers which are Odd and Palindromes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Bubble Sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Generate a Dictionary that Contains Numbers (between 1 and n) in the Form (x,x*x)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="InsertionSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SimplePythonPrograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,11 +244,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Examples on Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Examples on Dictionary/Generate a Dictionary that Contains Numbers (between 1 and n) in the Form (x,x*x).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/InsertionSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.InsertionSort" />
+        <item itemvalue="Python.Bubble Sort" />
         <item itemvalue="Python.Sort using a Binary Search Tree" />
         <item itemvalue="Python.70. Climbing Stairs" />
         <item itemvalue="Python.344. Reverse String" />
-        <item itemvalue="Python.Generate a Dictionary that Contains Numbers (between 1 and n) in the Form (x,x*x)" />
-        <item itemvalue="Python.Find All Numbers which are Odd and Palindromes" />
       </list>
     </recent_temporary>
   </component>
@@ -414,13 +411,27 @@
     <entry file="file://$PROJECT_DIR$/LinearSearch">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCodeEasy/70. Climbing Stairs.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sort using a Binary Search Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sorting/Bubble Sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeEasy/70. Climbing Stairs.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sorting/InsertionSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
         </state>
       </provider>
     </entry>
